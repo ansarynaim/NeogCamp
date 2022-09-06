@@ -71,7 +71,9 @@ hr {
 
 .nav-brand {
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 2rem;
+  padding-top: 2rem;
+  font-family: 'Satisfy', cursive;
 }
 
 .navigation .nav-pills {
@@ -81,7 +83,7 @@ hr {
 
 .navigation .link {
   color: whitesmoke;
-  text-transform: uppercase;
+  text-transform: capitalize;
   padding: 0.5rem;
 }
 
@@ -164,11 +166,11 @@ hr {
 }
 
 /* picture logo */
-
+/* 
 .logo {
   height: 4rem;
   width: 4rem;
   margin-left: 4rem;
   margin-top: 0.5rem;
   border-radius: 50%;
-}
+} */
